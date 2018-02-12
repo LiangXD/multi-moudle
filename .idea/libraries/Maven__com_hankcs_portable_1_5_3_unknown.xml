@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hankcs:portable-1.5.3:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hankcs/portable-1.5.3/unknown/portable-1.5.3-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hankcs/portable-1.5.3/unknown/portable-1.5.3-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hankcs/portable-1.5.3/unknown/portable-1.5.3-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

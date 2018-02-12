@@ -7,13 +7,19 @@
     <groupId>com.haishu</groupId>
     <artifactId>multi-moudle</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
+
     <modules>
         <module>web</module>
         <module>dao</module>
         <module>domain</module>
         <module>service</module>
     </modules>
+
+    <properties>
+        <java.version>1.8</java.version>
+        <lombook.version>1.16.18</lombook.version>
+    </properties>
 
 
 </project>

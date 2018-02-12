@@ -13,7 +13,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dao" target="1.5" />
+      <module name="dao" target="1.8" />
       <module name="domain" target="1.5" />
       <module name="multi-moudle" target="1.5" />
       <module name="service" target="1.5" />
